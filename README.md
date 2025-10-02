@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MathanCoder10/Leetcode-Problems/tree/master/0009-palindrome-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/MathanCoder10/Leetcode-Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
