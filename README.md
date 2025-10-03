@@ -9,13 +9,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MathanCoder10/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/MathanCoder10/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MathanCoder10/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/MathanCoder10/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 ## Database
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/MathanCoder10/Leetcode-Problems/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/MathanCoder10/Leetcode-Problems/tree/master/0182-duplicate-emails) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/MathanCoder10/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
